@@ -2,9 +2,6 @@
 
 @section('section')
   <div class="main_content">
-    <a id="create" href=" {{ route('create') }} ">
-      <h2>Create New</h2>
-    </a>
     <table>
       <tr>
         <th>FIRSTNAME</th>
