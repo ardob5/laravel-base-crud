@@ -1,3 +1,3 @@
 <div class="footer">
-  {{-- <h1>powered by Riccardo Belli</h1> --}}
+  <h1>Footer</h1>
 </div>
